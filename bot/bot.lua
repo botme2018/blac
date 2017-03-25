@@ -86,10 +86,10 @@ function create_config( )
 		»https://github.com/mahdiroo/MaTaDoR
 		
 		»Sudo BoT :
-		» @MahDiRoO
+		» @GODILOVEYOUME2
 		
 		»Auto Launch
-		» @MahDiRoO
+		» @GODILOVEYOUME2
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
